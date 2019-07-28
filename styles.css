@@ -1,0 +1,11 @@
+header, footer {
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 30px;
+    padding: 3px;
+    color: white;
+    text-align: center;
+}
+
+body {
+  background-color: black
+}
