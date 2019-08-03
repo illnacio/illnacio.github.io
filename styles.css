@@ -1,7 +1,8 @@
 header, footer {
-  font-family: 'Darker Grotesque', sans-serif;
-  font-size: 30px;
+  font-family: 'Staatliches', sans-serif;
+  font-size: 24px;
   padding: 3px;
+  letter-spacing: 25px;
   color: white;
   text-align: center;
 }
@@ -15,7 +16,23 @@ body {
 }
 
 nav {
-  font-family: 'Staatliches', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 22px;
   background-color: black;
+}
+
+p {
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+}
+
+img.thumb {
+  display: block;
+  max-width: 40%;
+  height: auto;
+}
+
+li.nav-item {
+  font-weight: 600;
 }
