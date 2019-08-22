@@ -7,6 +7,10 @@ header, footer {
   text-align: center;
 }
 
+.p-2 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
 ul, li {
   font-family: 'Staatliches', sans-serif;
   font-size: 25px;
