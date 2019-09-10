@@ -1,5 +1,5 @@
 header, footer {
-  font-family: 'Staatliches', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 24px;
   padding: 3px;
   letter-spacing: 25px;
@@ -12,7 +12,7 @@ header, footer {
 }
 
 ul, li {
-  font-family: 'Staatliches', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 25px;
   color: white;
   letter-spacing: 2px;
@@ -26,16 +26,16 @@ body {
   text-align: center;
 }
 
+
 nav {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 22px;
   background-color: black;
 }
 
-p, h1 {
+p, h1, h4, button {
   color: white;
   font-family: 'Roboto Condensed', sans-serif;
-  text-align: center;
 }
 
 img.thumb {
@@ -46,4 +46,5 @@ img.thumb {
 
 li.nav-item {
   font-weight: 600;
+  font-size: 22px;
 }
